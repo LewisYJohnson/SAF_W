@@ -1,0 +1,1 @@
+Please create new directories named "_2017t10", "nyt", "nyt_star", "scierc", "webnlg", "webnlg_star" in the current directory, and put the processed binary data in the corresponding directories according to their names.
